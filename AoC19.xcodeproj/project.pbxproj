@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8007C3D02395410C0009AA7D /* 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3CF2395410C0009AA7D /* 02.txt */; };
+		8007C3D2239541570009AA7D /* 02a-test1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3D1239541570009AA7D /* 02a-test1.txt */; };
+		8007C3D4239541A20009AA7D /* 02a-test2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3D3239541A20009AA7D /* 02a-test2.txt */; };
+		8007C3D6239542100009AA7D /* 02a-test3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3D5239542100009AA7D /* 02a-test3.txt */; };
+		8007C3D8239542240009AA7D /* 02a-test4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3D7239542240009AA7D /* 02a-test4.txt */; };
+		8007C3DA239542330009AA7D /* 02a-test5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8007C3D9239542330009AA7D /* 02a-test5.txt */; };
 		8016C36D23859F01005E1814 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8016C36C23859F01005E1814 /* AppDelegate.swift */; };
 		8016C36F23859F01005E1814 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8016C36E23859F01005E1814 /* ContentView.swift */; };
 		8016C37123859F02005E1814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8016C37023859F02005E1814 /* Assets.xcassets */; };
@@ -37,6 +43,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8007C3CF2395410C0009AA7D /* 02.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 02.txt; sourceTree = "<group>"; };
+		8007C3D1239541570009AA7D /* 02a-test1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "02a-test1.txt"; sourceTree = "<group>"; };
+		8007C3D3239541A20009AA7D /* 02a-test2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "02a-test2.txt"; sourceTree = "<group>"; };
+		8007C3D5239542100009AA7D /* 02a-test3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "02a-test3.txt"; sourceTree = "<group>"; };
+		8007C3D7239542240009AA7D /* 02a-test4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "02a-test4.txt"; sourceTree = "<group>"; };
+		8007C3D9239542330009AA7D /* 02a-test5.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "02a-test5.txt"; sourceTree = "<group>"; };
 		8016C36923859F01005E1814 /* AoC19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AoC19.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8016C36C23859F01005E1814 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8016C36E23859F01005E1814 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -148,6 +160,12 @@
 				8071B6CF239508B1009C503C /* 01.txt */,
 				8071B6D123950A13009C503C /* 01a-test.txt */,
 				8071B6D323950AAD009C503C /* 01b-test.txt */,
+				8007C3CF2395410C0009AA7D /* 02.txt */,
+				8007C3D1239541570009AA7D /* 02a-test1.txt */,
+				8007C3D3239541A20009AA7D /* 02a-test2.txt */,
+				8007C3D5239542100009AA7D /* 02a-test3.txt */,
+				8007C3D7239542240009AA7D /* 02a-test4.txt */,
+				8007C3D9239542330009AA7D /* 02a-test5.txt */,
 			);
 			path = Input;
 			sourceTree = "<group>";
@@ -256,9 +274,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8007C3D8239542240009AA7D /* 02a-test4.txt in Resources */,
+				8007C3D02395410C0009AA7D /* 02.txt in Resources */,
 				8071B6D423950AAD009C503C /* 01b-test.txt in Resources */,
 				8016C37723859F02005E1814 /* Main.storyboard in Resources */,
+				8007C3DA239542330009AA7D /* 02a-test5.txt in Resources */,
 				8071B6D223950A13009C503C /* 01a-test.txt in Resources */,
+				8007C3D6239542100009AA7D /* 02a-test3.txt in Resources */,
+				8007C3D4239541A20009AA7D /* 02a-test2.txt in Resources */,
+				8007C3D2239541570009AA7D /* 02a-test1.txt in Resources */,
 				8071B6D0239508B1009C503C /* 01.txt in Resources */,
 				8016C37423859F02005E1814 /* Preview Assets.xcassets in Resources */,
 				8016C37123859F02005E1814 /* Assets.xcassets in Resources */,
