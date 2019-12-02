@@ -14,6 +14,7 @@
 		8016C37723859F02005E1814 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8016C37523859F02005E1814 /* Main.storyboard */; };
 		8016C38323859F02005E1814 /* AoC19Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8016C38223859F02005E1814 /* AoC19Tests.swift */; };
 		8016C38E23859F02005E1814 /* AoC19UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8016C38D23859F02005E1814 /* AoC19UITests.swift */; };
+		8071B6D0239508B1009C503C /* 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6CF239508B1009C503C /* 01.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		8016C38923859F02005E1814 /* AoC19UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AoC19UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8016C38D23859F02005E1814 /* AoC19UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AoC19UITests.swift; sourceTree = "<group>"; };
 		8016C38F23859F02005E1814 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8071B6CF239508B1009C503C /* 01.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 01.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 		8071B6CE2395076F009C503C /* Input */ = {
 			isa = PBXGroup;
 			children = (
+				8071B6CF239508B1009C503C /* 01.txt */,
 			);
 			path = Input;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8016C37723859F02005E1814 /* Main.storyboard in Resources */,
+				8071B6D0239508B1009C503C /* 01.txt in Resources */,
 				8016C37423859F02005E1814 /* Preview Assets.xcassets in Resources */,
 				8016C37123859F02005E1814 /* Assets.xcassets in Resources */,
 			);
