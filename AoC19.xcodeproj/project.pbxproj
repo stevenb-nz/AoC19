@@ -98,6 +98,7 @@
 		8016C36B23859F01005E1814 /* AoC19 */ = {
 			isa = PBXGroup;
 			children = (
+				8071B6CE2395076F009C503C /* Input */,
 				8016C36C23859F01005E1814 /* AppDelegate.swift */,
 				8016C36E23859F01005E1814 /* ContentView.swift */,
 				8016C37023859F02005E1814 /* Assets.xcassets */,
@@ -133,6 +134,13 @@
 				8016C38F23859F02005E1814 /* Info.plist */,
 			);
 			path = AoC19UITests;
+			sourceTree = "<group>";
+		};
+		8071B6CE2395076F009C503C /* Input */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Input;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
