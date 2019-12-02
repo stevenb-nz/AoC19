@@ -16,6 +16,7 @@
 		8016C38E23859F02005E1814 /* AoC19UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8016C38D23859F02005E1814 /* AoC19UITests.swift */; };
 		8071B6D0239508B1009C503C /* 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6CF239508B1009C503C /* 01.txt */; };
 		8071B6D223950A13009C503C /* 01a-test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6D123950A13009C503C /* 01a-test.txt */; };
+		8071B6D423950AAD009C503C /* 01b-test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6D323950AAD009C503C /* 01b-test.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		8016C38F23859F02005E1814 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8071B6CF239508B1009C503C /* 01.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 01.txt; sourceTree = "<group>"; };
 		8071B6D123950A13009C503C /* 01a-test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "01a-test.txt"; sourceTree = "<group>"; };
+		8071B6D323950AAD009C503C /* 01b-test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "01b-test.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			children = (
 				8071B6CF239508B1009C503C /* 01.txt */,
 				8071B6D123950A13009C503C /* 01a-test.txt */,
+				8071B6D323950AAD009C503C /* 01b-test.txt */,
 			);
 			path = Input;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8071B6D423950AAD009C503C /* 01b-test.txt in Resources */,
 				8016C37723859F02005E1814 /* Main.storyboard in Resources */,
 				8071B6D223950A13009C503C /* 01a-test.txt in Resources */,
 				8071B6D0239508B1009C503C /* 01.txt in Resources */,
