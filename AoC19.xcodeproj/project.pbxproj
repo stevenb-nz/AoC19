@@ -23,6 +23,10 @@
 		8071B6D0239508B1009C503C /* 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6CF239508B1009C503C /* 01.txt */; };
 		8071B6D223950A13009C503C /* 01a-test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6D123950A13009C503C /* 01a-test.txt */; };
 		8071B6D423950AAD009C503C /* 01b-test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8071B6D323950AAD009C503C /* 01b-test.txt */; };
+		80CAADCB239763F100BD4ADC /* 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = 80CAADCA239763F100BD4ADC /* 03.txt */; };
+		80CAADCD2397645900BD4ADC /* 03a-test1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 80CAADCC2397645900BD4ADC /* 03a-test1.txt */; };
+		80CAADCF2397646700BD4ADC /* 03a-test2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 80CAADCE2397646700BD4ADC /* 03a-test2.txt */; };
+		80CAADD12397647300BD4ADC /* 03a-test3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 80CAADD02397647300BD4ADC /* 03a-test3.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +70,10 @@
 		8071B6CF239508B1009C503C /* 01.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 01.txt; sourceTree = "<group>"; };
 		8071B6D123950A13009C503C /* 01a-test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "01a-test.txt"; sourceTree = "<group>"; };
 		8071B6D323950AAD009C503C /* 01b-test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "01b-test.txt"; sourceTree = "<group>"; };
+		80CAADCA239763F100BD4ADC /* 03.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 03.txt; sourceTree = "<group>"; };
+		80CAADCC2397645900BD4ADC /* 03a-test1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "03a-test1.txt"; sourceTree = "<group>"; };
+		80CAADCE2397646700BD4ADC /* 03a-test2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "03a-test2.txt"; sourceTree = "<group>"; };
+		80CAADD02397647300BD4ADC /* 03a-test3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "03a-test3.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +174,10 @@
 				8007C3D5239542100009AA7D /* 02a-test3.txt */,
 				8007C3D7239542240009AA7D /* 02a-test4.txt */,
 				8007C3D9239542330009AA7D /* 02a-test5.txt */,
+				80CAADCA239763F100BD4ADC /* 03.txt */,
+				80CAADCC2397645900BD4ADC /* 03a-test1.txt */,
+				80CAADCE2397646700BD4ADC /* 03a-test2.txt */,
+				80CAADD02397647300BD4ADC /* 03a-test3.txt */,
 			);
 			path = Input;
 			sourceTree = "<group>";
@@ -274,10 +286,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80CAADCB239763F100BD4ADC /* 03.txt in Resources */,
 				8007C3D8239542240009AA7D /* 02a-test4.txt in Resources */,
 				8007C3D02395410C0009AA7D /* 02.txt in Resources */,
 				8071B6D423950AAD009C503C /* 01b-test.txt in Resources */,
 				8016C37723859F02005E1814 /* Main.storyboard in Resources */,
+				80CAADCD2397645900BD4ADC /* 03a-test1.txt in Resources */,
+				80CAADCF2397646700BD4ADC /* 03a-test2.txt in Resources */,
 				8007C3DA239542330009AA7D /* 02a-test5.txt in Resources */,
 				8071B6D223950A13009C503C /* 01a-test.txt in Resources */,
 				8007C3D6239542100009AA7D /* 02a-test3.txt in Resources */,
@@ -286,6 +301,7 @@
 				8071B6D0239508B1009C503C /* 01.txt in Resources */,
 				8016C37423859F02005E1814 /* Preview Assets.xcassets in Resources */,
 				8016C37123859F02005E1814 /* Assets.xcassets in Resources */,
+				80CAADD12397647300BD4ADC /* 03a-test3.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
